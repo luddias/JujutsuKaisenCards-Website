@@ -1,0 +1,37 @@
+@media (max-width: 620px){
+    .principal{
+      padding: 0 15px;
+      gap:10px
+  }
+  
+  .btn-seta{
+    width:20px;
+    height: 20px;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .lista-jujutsu{
+    height: 480px;  
+  }
+  
+  .cartao{
+    height: 480px;  
+  }
+  
+  .cartao .img-card{
+    max-height: 250px;
+    margin: 20px 0px 20px 0px;
+  }
+  
+  .cartao .informacoes .nome{
+    max-width: 50%;
+    font-size: 14px;
+  }
+  
+  .cartao .informacoes .ano{
+    font-size: 10px;
+  }
+}
