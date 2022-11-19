@@ -3,6 +3,8 @@ body{
   background-image: url("https://github.com/luddias/JujutsuKaisenCards-Website/blob/main/img/jujutsu%20background.png?raw=true");
   background-repeat: no-repeat;
   background-size: cover;
+  height: 100vh;
+  width: 100vw;
 }
 
 .cabecalho{
