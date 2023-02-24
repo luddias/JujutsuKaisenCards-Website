@@ -162,9 +162,7 @@ body{
     .principal{
       padding: 0 15px;
       gap:10px
-  }
-  
-  .btn-seta{
+     .btn-seta{
     width:20px;
     height: 20px;
     padding: 20px;
@@ -194,4 +192,6 @@ body{
   .cartao .informacoes .ano{
     font-size: 10px;
   }
+  }
+  
 }
